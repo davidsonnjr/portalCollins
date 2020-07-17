@@ -1,0 +1,12 @@
+name: COLLINS
+title:
+username:
+account: nandoinacio
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2000430
+bundleId: 2927824
+url: https://nandoinacio.shinyapps.io/COLLINS/
+when: 1585236265.70552
+asMultiple: FALSE
+asStatic: FALSE
